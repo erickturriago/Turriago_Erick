@@ -1,0 +1,117 @@
+[2023-10-26 20:42:47] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 20:42:47] [ ERROR] [OdontologoDaoH2:43] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [42104-214]
+[2023-10-26 20:42:47] [ INFO ] [OdontologoDaoH2:48] Tuvimos un problema
+[2023-10-26 20:42:47] [ ERROR] [OdontologoDaoH2:49] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [42104-214]
+[2023-10-26 20:42:47] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: com.backend.parcial.model.Odontologo@f14a7d4
+[2023-10-26 20:42:47] [ INFO ] [OdontologoDaoH2:68] Inicio de operación listar
+[2023-10-26 20:45:50] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 20:45:50] [ ERROR] [OdontologoDaoH2:43] La base de datos puede que ya esté siendo utilizada: "C:/Users/Erick Turriago/c2odontologo.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/Erick Turriago/c2odontologo.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-10-26 20:45:50] [ ERROR] [OdontologoDaoH2:60] No se pudo cerrar la conexion: Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-10-26 20:45:50] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: com.backend.parcial.model.Odontologo@4e07b95f
+[2023-10-26 20:45:50] [ INFO ] [OdontologoDaoH2:68] Inicio de operación listar
+[2023-10-26 20:46:23] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 20:46:23] [ ERROR] [OdontologoDaoH2:43] La base de datos puede que ya esté siendo utilizada: "C:/Users/Erick Turriago/c2odontologo.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/Erick Turriago/c2odontologo.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-10-26 20:46:23] [ ERROR] [OdontologoDaoH2:60] No se pudo cerrar la conexion: Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-10-26 20:46:23] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: com.backend.parcial.model.Odontologo@1787bc24
+[2023-10-26 20:46:23] [ INFO ] [OdontologoDaoH2:68] Inicio de operación listar
+[2023-10-26 20:47:06] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 20:47:06] [ ERROR] [OdontologoDaoH2:43] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [42104-214]
+[2023-10-26 20:47:06] [ INFO ] [OdontologoDaoH2:48] Tuvimos un problema
+[2023-10-26 20:47:06] [ ERROR] [OdontologoDaoH2:49] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [42104-214]
+[2023-10-26 20:47:06] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: com.backend.parcial.model.Odontologo@5a37d3ed
+[2023-10-26 20:47:06] [ INFO ] [OdontologoDaoH2:68] Inicio de operación listar
+[2023-10-26 20:49:40] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 20:49:40] [ ERROR] [OdontologoDaoH2:43] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [21002-214]
+[2023-10-26 20:49:40] [ INFO ] [OdontologoDaoH2:48] Tuvimos un problema
+[2023-10-26 20:49:40] [ ERROR] [OdontologoDaoH2:49] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [21002-214]
+[2023-10-26 20:49:40] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: com.backend.parcial.model.Odontologo@2d9caaeb
+[2023-10-26 20:49:40] [ INFO ] [OdontologoDaoH2:68] Inicio de operación listar
+[2023-10-26 20:54:04] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 20:54:04] [ ERROR] [OdontologoDaoH2:43] La base de datos puede que ya esté siendo utilizada: "C:/Users/Erick Turriago/c1odontologo.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/Erick Turriago/c1odontologo.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-10-26 20:54:04] [ ERROR] [OdontologoDaoH2:60] No se pudo cerrar la conexion: Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-10-26 20:54:04] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: com.backend.parcial.model.Odontologo@7e5afaa6
+[2023-10-26 20:54:04] [ INFO ] [OdontologoDaoH2:68] Inicio de operación listar
+[2023-10-26 20:54:18] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 20:54:18] [ ERROR] [OdontologoDaoH2:43] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [21002-214]
+[2023-10-26 20:54:18] [ INFO ] [OdontologoDaoH2:48] Tuvimos un problema
+[2023-10-26 20:54:18] [ ERROR] [OdontologoDaoH2:49] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [21002-214]
+[2023-10-26 20:54:18] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: com.backend.parcial.model.Odontologo@27e47833
+[2023-10-26 20:54:18] [ INFO ] [OdontologoDaoH2:68] Inicio de operación listar
+[2023-10-26 20:55:54] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 20:55:54] [ ERROR] [OdontologoDaoH2:44] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [21002-214]
+[2023-10-26 20:55:54] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2023-10-26 20:55:54] [ ERROR] [OdontologoDaoH2:50] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [21002-214]
+[2023-10-26 20:55:54] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: com.backend.parcial.model.Odontologo@27e47833
+[2023-10-26 20:55:54] [ INFO ] [OdontologoDaoH2:69] Inicio de operación listar
+[2023-10-26 20:57:01] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 20:57:01] [ ERROR] [OdontologoDaoH2:45] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [21002-214]
+[2023-10-26 20:57:01] [ INFO ] [OdontologoDaoH2:50] Tuvimos un problema
+[2023-10-26 20:57:01] [ ERROR] [OdontologoDaoH2:51] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [21002-214]
+[2023-10-26 20:57:01] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: com.backend.parcial.model.Odontologo@27e47833
+[2023-10-26 20:57:01] [ INFO ] [OdontologoDaoH2:70] Inicio de operación listar
+[2023-10-26 20:57:32] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 20:57:32] [ ERROR] [OdontologoDaoH2:46] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [21002-214]
+[2023-10-26 20:57:32] [ INFO ] [OdontologoDaoH2:51] Tuvimos un problema
+[2023-10-26 20:57:32] [ ERROR] [OdontologoDaoH2:52] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [21002-214]
+[2023-10-26 20:57:32] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: com.backend.parcial.model.Odontologo@27e47833
+[2023-10-26 20:57:32] [ INFO ] [OdontologoDaoH2:71] Inicio de operación listar
+[2023-10-26 20:58:13] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 20:58:14] [ ERROR] [OdontologoDaoH2:46] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [21002-214]
+[2023-10-26 20:58:14] [ INFO ] [OdontologoDaoH2:51] Tuvimos un problema
+[2023-10-26 20:58:14] [ ERROR] [OdontologoDaoH2:52] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [21002-214]
+[2023-10-26 20:58:14] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Odontologo{id=1, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 20:58:14] [ INFO ] [OdontologoDaoH2:71] Inicio de operación listar
+[2023-10-26 20:58:49] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 20:58:49] [ INFO ] [OdontologoDaoH2:27] DAo base
+[2023-10-26 20:58:49] [ ERROR] [OdontologoDaoH2:46] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [21002-214]
+[2023-10-26 20:58:49] [ INFO ] [OdontologoDaoH2:51] Tuvimos un problema
+[2023-10-26 20:58:49] [ ERROR] [OdontologoDaoH2:52] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?) [21002-214]
+[2023-10-26 20:58:49] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Odontologo{id=1, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 20:58:49] [ INFO ] [OdontologoDaoH2:71] Inicio de operación listar
+[2023-10-26 20:59:24] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 20:59:25] [ INFO ] [OdontologoDaoH2:27] DAo base
+[2023-10-26 20:59:25] [ INFO ] [OdontologoDaoH2:31] Odontologo{id=null, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 20:59:25] [ ERROR] [OdontologoDaoH2:47] Parametro "#4" no está fijado
+Parameter "#4" is not set; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?,?) [90012-214]
+[2023-10-26 20:59:25] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2023-10-26 20:59:25] [ ERROR] [OdontologoDaoH2:53] Parametro "#4" no está fijado
+Parameter "#4" is not set; SQL statement:
+INSERT INTO ODONTOLOGO VALUES(?,?,?,?) [90012-214]
+[2023-10-26 20:59:25] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Odontologo{id=1, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 20:59:25] [ INFO ] [OdontologoDaoH2:72] Inicio de operación listar
