@@ -21,20 +21,12 @@ public class OdontologoDaoMemoria implements iDao<Odontologo> {
         int id = odontologoRepository.size() + 1;
         odontologoRepository.add(odontologo);
         Odontologo odontologoGuardado = new Odontologo(id,  odontologo.getNumMatricula(), odontologo.getNombre(),odontologo.getApellido());
-        LOGGER.info("Odontologo guardado: " + odontologoGuardado);
-        return odontologo;
+        return odontologoGuardado;
     }
 
     @Override
     public List<Odontologo> listarTodos() {
-        for(int i=0;i<getOdontologoRepository().size();i++){
-            LOGGER.info("Odontologo 1: "+getOdontologoRepository().get(i));
-        }
-        return getOdontologoRepository();
-    }
-
-
-    public List<Odontologo> getOdontologoRepository() {
         return odontologoRepository;
     }
+
 }

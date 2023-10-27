@@ -115,3 +115,33 @@ Parameter "#4" is not set; SQL statement:
 INSERT INTO ODONTOLOGO VALUES(?,?,?,?) [90012-214]
 [2023-10-26 20:59:25] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Odontologo{id=1, numMatricula=20, nombre='Juan', apellido='Doc'}
 [2023-10-26 20:59:25] [ INFO ] [OdontologoDaoH2:72] Inicio de operación listar
+[2023-10-26 21:04:24] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 21:04:24] [ INFO ] [OdontologoDaoH2:27] DAo base
+[2023-10-26 21:04:24] [ INFO ] [OdontologoDaoH2:31] Odontologo{id=null, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:04:24] [ INFO ] [OdontologoDaoH2:43] Odontologo guardado: Odontologo{id=4, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:04:24] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Odontologo{id=1, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:04:24] [ INFO ] [OdontologoDaoH2:72] Inicio de operación listar
+[2023-10-26 21:08:49] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 21:08:49] [ INFO ] [OdontologoDaoH2:27] DAo base
+[2023-10-26 21:08:49] [ INFO ] [OdontologoDaoH2:31] Odontologo{id=null, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:08:49] [ INFO ] [OdontologoDaoH2:43] Odontologo guardado: Odontologo{id=4, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:08:49] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Odontologo{id=1, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:08:49] [ INFO ] [OdontologoServiceTest:59] Odontologo{id=null, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:08:49] [ INFO ] [OdontologoDaoH2:72] Inicio de operación listar
+[2023-10-26 21:09:47] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 21:09:47] [ INFO ] [OdontologoDaoH2:27] DAo base
+[2023-10-26 21:09:47] [ INFO ] [OdontologoDaoH2:31] Odontologo{id=null, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:09:47] [ INFO ] [OdontologoDaoH2:43] Odontologo guardado: Odontologo{id=4, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:09:47] [ INFO ] [OdontologoDaoMemoria:25] Odontologo guardado: Odontologo{id=1, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:09:47] [ INFO ] [OdontologoServiceTest:59] Odontologo{id=null, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:09:47] [ INFO ] [OdontologoDaoH2:72] Inicio de operación listar
+[2023-10-26 21:11:27] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 21:11:27] [ INFO ] [OdontologoDaoH2:27] DAo base
+[2023-10-26 21:11:27] [ INFO ] [OdontologoDaoH2:31] Odontologo{id=null, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:11:27] [ INFO ] [OdontologoDaoH2:43] Odontologo guardado: Odontologo{id=4, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:11:27] [ INFO ] [OdontologoDaoH2:72] Inicio de operación listar
+[2023-10-26 21:11:42] [ INFO ] [OdontologoDaoH2:21] Inicio de guardado odontologo
+[2023-10-26 21:11:42] [ INFO ] [OdontologoDaoH2:27] DAo base
+[2023-10-26 21:11:42] [ INFO ] [OdontologoDaoH2:31] Odontologo{id=null, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:11:42] [ INFO ] [OdontologoDaoH2:43] Odontologo guardado: Odontologo{id=4, numMatricula=20, nombre='Juan', apellido='Doc'}
+[2023-10-26 21:11:42] [ INFO ] [OdontologoDaoH2:72] Inicio de operación listar

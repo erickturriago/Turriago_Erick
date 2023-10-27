@@ -26,7 +26,7 @@ public class OdontologoDaoH2 implements iDao<Odontologo>{
             connection.setAutoCommit(false);
             logger.info("DAo base");
             //PreparedStatement psInsert = connection.prepareStatement(SQL_INSERT, Statement.RETURN_GENERATED_KEYS);
-            PreparedStatement psInsert = connection.prepareStatement("INSERT INTO ODONTOLOGO VALUES(?,?,?,?)", Statement.RETURN_GENERATED_KEYS);
+            PreparedStatement psInsert = connection.prepareStatement("INSERT INTO ODONTOLOGO (NUM_MATRICULA,NOMBRE, APELLIDO) VALUES (?,?,?)", Statement.RETURN_GENERATED_KEYS);
 
             logger.info(odontologo);
             psInsert.setInt(1, odontologo.getNumMatricula());

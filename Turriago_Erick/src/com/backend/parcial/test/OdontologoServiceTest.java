@@ -3,6 +3,7 @@ package com.backend.parcial.test;
 import com.backend.parcial.dao.impl.OdontologoDaoH2;
 import com.backend.parcial.dao.impl.OdontologoDaoMemoria;
 import com.backend.parcial.model.Odontologo;
+import org.apache.log4j.Logger;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Order;
@@ -21,6 +22,8 @@ public class OdontologoServiceTest {
 
     private OdontologoService odontologoServiceDaoH2 = new OdontologoService(new OdontologoDaoH2());
     private OdontologoService odontologoServiceDaoMemoria = new OdontologoService(new OdontologoDaoMemoria());
+
+    private final Logger LOGGER = Logger.getLogger(OdontologoServiceTest.class);
 
 
     @BeforeAll
@@ -59,7 +62,6 @@ public class OdontologoServiceTest {
 
     @Test
     void deberiaRetornarUnaListaNoVaciaEnDaoH2(){
-
         assertFalse(odontologoServiceDaoH2.listarTodos().isEmpty());
     }
 
